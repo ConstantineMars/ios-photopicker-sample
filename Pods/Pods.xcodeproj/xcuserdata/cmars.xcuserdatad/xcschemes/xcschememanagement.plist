@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-PhotoPickerSample.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PhotoPickerSampleTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PhotoPickerSampleUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>QBImagePickerController-QBImagePicker.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>QBImagePickerController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2B002637DC212E06431D31FDBAD9D207</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6721F864F9DDEABCAC9271A22DE91E7C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>870B2BFFBD9E92CD8065C2ED1C46CC83</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AA7334511B14A72F71548BAE868CCDE3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F9409CAF5CA96A72B093184A3BC5CA7C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
